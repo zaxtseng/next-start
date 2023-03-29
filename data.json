@@ -1,0 +1,7 @@
+{
+	"navData": [
+		{ "name": "About", "href": "/" },
+		{ "name": "How to", "href": "/" },
+		{ "name": "Faqs", "href": "/" }
+	]
+}
